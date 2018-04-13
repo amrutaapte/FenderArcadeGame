@@ -17,3 +17,9 @@ Every tim eplayer reaches the water side, 10 points are added to the score and d
 When playes reaches score of 100, the game is won!
 
 
+To Start the Game
+=================
+
+Load the Index.html file to start playing.
+Hit refresh if you Win or Lose the game.
+Enjoy!
